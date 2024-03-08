@@ -10,7 +10,7 @@ margin-top: 0px;
 }
 
 .content{
-background-color: rgb(245, 245, 245);
+background-color: rgb(255, 255, 255);
 grid-column: span 3 ;
 display: grid;
 grid-template-columns: 1fr 1fr 1fr;
